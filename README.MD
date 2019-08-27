@@ -1,0 +1,1 @@
+Funções variadas para uso pessoal.
