@@ -11,7 +11,7 @@ wtab_1way(dat, row, wt)
 
 \item{row}{Row variable}
 
-\item{wt}{Weights variable}
+\item{wt}{Weight variable}
 }
 \description{
 wtab_1way produces one-way with weighted data.

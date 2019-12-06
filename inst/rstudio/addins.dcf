@@ -1,0 +1,4 @@
+Name: Github gist
+Description: Create Github gist from tab contents
+Binding: gist_addin
+Interactive: true

@@ -15,7 +15,7 @@ wtab(dat, row, col, by, wt, ...)
 
 \item{by}{Grouping (super row) variable}
 
-\item{wt}{Weights variable}
+\item{wt}{Weight variable}
 }
 \description{
 `wtab` produces one-way, two-way and three-way tabulations with weighted data.
