@@ -15,4 +15,8 @@ Imports:
     pander, 
     rlang, 
     purrr,
-    magrittr
+    magrittr,
+    shiny,
+    miniUI,
+    rstudioapi,
+    gistr
